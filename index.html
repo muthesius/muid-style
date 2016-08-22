@@ -32,10 +32,31 @@
             height: auto;
             line-height: 1;
           }
+          .symbols > :not(.big) {
+            overflow: hidden;
+             margin-bottom: 0.9em;
+          }
+           .symbols :not(.big) > * {
+             float: left;
+             margin-right: .1em;
+             margin-bottom: .1em;
+           }
+           .symbols > :not(.big) > :last-child {
+             margin-right: 0;
+           }
+           .symbols > :not(.big) > :first-child {
+             clear: left;
+           }
            .symbols .big {
-            font-size: 100vh;
+            font-size: 90vw;
           }
 
+          @media only screen and (max-device-width: 480px) {
+            body {
+              margin: 3em 5vw;
+              width: 90vw;
+            }
+          }
         </style>
     </head>
     <body>
