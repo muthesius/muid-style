@@ -11,6 +11,7 @@ $muid-fg-color: #FFFFFF;
 
 .muid {
 
+  &.tiny { font-size: 16px; }
   &.small { font-size: 32px; }
   &.medium { font-size: 64px; }
   &.large { font-size: 128px; }
