@@ -1,0 +1,24 @@
+{
+  "name": "muid-style",
+  "authors": [
+    "jens <jens@lea.io>"
+  ],
+  "description": "MUiD Sass Styles",
+  "main": "muid.css",
+  "keywords": [
+    "muthesius",
+    "muid",
+    "style",
+    "css"
+  ],
+  "license": "GPL",
+  "homepage": "muid.org",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
