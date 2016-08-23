@@ -1,8 +1,9 @@
 {
   "name": "muid-style",
   "authors": [
-    "jens <jens@lea.io>"
+    "jens alexander ewald<jens@lea.io>"
   ],
+  "version": "0.0.0",
   "description": "MUiD Sass Styles",
   "main": "muid.css",
   "keywords": [
@@ -12,7 +13,7 @@
     "css"
   ],
   "license": "GPL",
-  "homepage": "muid.org",
+  "homepage": "www.muthesius.de",
   "private": true,
   "ignore": [
     "**/.*",
