@@ -3,7 +3,7 @@
   "authors": [
     "jens alexander ewald<jens@lea.io>"
   ],
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "MUiD Sass Styles",
   "main": "muid.css",
   "keywords": [
