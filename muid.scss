@@ -9,6 +9,15 @@
 $muid-bg-color: #011E42;
 $muid-fg-color: #FFFFFF;
 
+// International Flag Colours
+// As in: https://de.wikipedia.org/wiki/Flaggenalphabet
+$yellow:  #EEC900;
+$red:     #AB2524;
+$blue:    #232D53;
+$green:   #216030;
+$white:   #EBE7D4;
+$black:   #0A0A0C;
+
 .muid {
 
   &.tiny { font-size: 16px; }
