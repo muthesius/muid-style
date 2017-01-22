@@ -5,6 +5,9 @@
   Licensed under GPL/CC
   Muthesius Academy of Fine Art & Design, 2016
  */
+img.muid.logo {
+  background-image: url("./muid.svg"); }
+
 .muid.tiny {
   font-size: 16px; }
 .muid.small {

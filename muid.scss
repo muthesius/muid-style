@@ -18,6 +18,10 @@ $green:   #216030;
 $white:   #EBE7D4;
 $black:   #0A0A0C;
 
+img.muid.logo {
+  background-image: url('./muid.svg');
+}
+
 .muid {
 
   &.tiny { font-size: 16px; }
