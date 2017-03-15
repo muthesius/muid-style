@@ -1,0 +1,30 @@
+{
+  "name": "muid-style",
+  "version": "1.0.0",
+  "description": "MuID Styles",
+  "main": "muid.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node-sass -xrw muid.scss muid.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthesius/muid-style.git"
+  },
+  "keywords": [
+    "muid",
+    "styles",
+    "css",
+    "fancy",
+    "web"
+  ],
+  "author": "jens alexander ewald",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/muthesius/muid-style/issues"
+  },
+  "homepage": "https://github.com/muthesius/muid-style#readme",
+  "devDependencies": {
+    "node-sass": "^4.5.0"
+  }
+}

@@ -2,4 +2,18 @@
 MUiD CSS Style Repository
 
 ## Contributing
-These styles are written in SASS because it is just the better CSS. Install `sass` via Ruby: `gem install sass` and run `sass --watch muid.scss:muid.css` to continually compile the css. You can also use any other preprocessor runner of your liking which can do sass.
+These styles are written in SASS, because it is just the better CSS.
+
+To use this either use an editor like Brackets with the node-sass plugin or simply use npm:
+
+### Install NodeJS and then run the followoing in this directory
+
+```
+npm install
+```
+
+Then autocompile the sass with:
+
+```
+npm run watch
+```
